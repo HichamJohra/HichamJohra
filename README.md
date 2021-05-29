@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Hicham Johra.
+- 👀 I am a researcher in Civil Engineering and BUilding Energy Efficiency at Aalborg University (Denmark).
+- 📫 How to reach me by sending an email to hj@build.aau.dk
