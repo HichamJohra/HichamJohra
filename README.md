@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Hicham Johra.
-- 👀 I am a researcher in Civil Engineering, Energy and Buildings, Indoor Environment, Building Energy Efficiency and Thermal Properties of Building Materials at Aalborg University, Department of the Built Environment (Denmark).
-- 📫 How to reach me by sending an email to hj@build.aau.dk
+- 👀 I am a researcher in Civil Engineering, Energy and Buildings, Indoor Environment, Building Energy Efficiency and Thermal Properties of Building Materials at SINTEF Community (Norway).
+- 📫 How to reach me: send an email to hicham.johra@sintef.no
