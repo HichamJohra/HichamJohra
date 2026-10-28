@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Hicham Johra.
-- 👀 I am a researcher in Civil Engineering, Energy and Buildings, Indoor Environment, Building Energy Efficiency and Thermal Properties of Building Materials at SINTEF Community (Norway).
+- 👀 I am a doctor and researcher in Civil Engineering, Energy and Buildings, Smart Buildings, Building Thermodynamics, Building Energy Efficiency, Building Energy Flexibility and Demand Response, Building Performance, Indoor Environmental Quality, and Construction Materials Science at SINTEF Community (Oslo, Norway).
 - 📫 How to reach me: send an email to hicham.johra@sintef.no
